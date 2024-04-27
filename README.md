@@ -16,3 +16,8 @@ Compilation of my journey on coding and consistent development
 -> Completed section 18 of full stack java developer course and happy to conquer third section of jsp and servlets - java beans done - lecture 250 done
 
 ![image](https://github.com/Parasar33/N-Days-Of-Code/assets/110784718/c5f7b289-6fcc-4c27-b6c2-3df0e03f9c01)
+
+**_DAY 4 | 27th April 2024_**
+-> Reboot on the DSA Journey, completed various problems in striver a2z dsa sheet and looking forward to solve all easy problems of array tomorrow
+
+![image](https://github.com/Parasar33/N-Days-Of-Code/assets/110784718/42b54ebd-f279-40ad-a84e-6f7cf9933ea0)
